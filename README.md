@@ -1,5 +1,6 @@
 # team-profile-generator-
 
+
 ## User Story
 
 ```
@@ -30,3 +31,10 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+
+
+## Video
+
+[Walkthrough Video](https://drive.google.com/file/d/1Xg9-wJedqKhc5AkJyIUGwQ5x8IgNGDns/view?usp=sharing)
+
+[Test Video](https://drive.google.com/file/d/1XdC94amXmPi3VroGZpFPq2fLfnwdlabG/view?usp=sharing)
